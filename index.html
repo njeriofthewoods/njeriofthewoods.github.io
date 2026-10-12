@@ -5,6 +5,52 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Njeri of the Woods</title>
 
+/* Homepage woodland hero */
+.woodland-hero {
+  position: relative;
+  width: 100%;
+  height: 420px;
+  overflow: hidden;
+  background: #263b2c;
+}
+
+.woodland-hero img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  display: block;
+}
+
+.hero-title {
+  position: absolute;
+  inset: 0;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  padding: 20px;
+  background: rgba(12, 25, 16, 0.35);
+  color: #fffaf0;
+}
+
+.hero-title h1 {
+  color: #fffaf0;
+  font-size: clamp(30px, 6vw, 54px);
+  margin-bottom: 8px;
+}
+
+.hero-title p {
+  color: #fffaf0;
+  font-size: 16px;
+}
+
+@media (max-width: 600px) {
+  .woodland-hero {
+    height: 320px;
+  }
+}
+  
   <style>
     body {
       margin: 0;
@@ -143,7 +189,15 @@ a:hover {
 </head>
 
 <body>
-<img src="premium_photo-1690444625510-17845b0a8718.jpeg" alt="A moss-covered tree surrounded by ferns" style="width:100%; max-width:700px; height:auto; display:block; margin:20px auto;">
+
+<div class="woodland-hero">
+  <img src="premium_photo-1690444625510-17845b0a8718.jpeg" alt="A moss-covered tree surrounded by ferns">
+  <div class="hero-title">
+    <h1>Njeri of the Woods</h1>
+    <p>Stories from the quiet, shadowed places.</p>
+  </div>
+</div>
+  
   <header>
     <a class="brand" href="#">Njeri of the Woods</a>
 
