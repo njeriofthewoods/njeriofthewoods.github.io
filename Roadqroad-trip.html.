@@ -150,9 +150,12 @@
     </div>
 
     <!-- Replace this placeholder with your artwork when ready. -->
-    <div class="artwork-placeholder">
-      Artwork will appear here
-    </div>
+    <img
+  class="story-artwork"
+  src="file_00000000648481faba6d390a0bd08bf1.png, "
+  alt="Artwork for Road Trip"
+>
+    
 
     <article class="story">
       <p>I'm at the dusty Nairobi bus station, buying a ticket to see my favourite aunt, four hours away. One day, she packed her bags and moved to the village by herself. Said she was done with the family drama and the fast city life, and went off-grid.</p>
