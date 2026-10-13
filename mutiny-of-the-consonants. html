@@ -1,1 +1,81 @@
+<!DOCTYPE html><html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Mutiny of the Consonants | Njeri of the Woods</title>  <style>
+    body {
+      background-color: #f5f2e9;
+      color: #263d2b;
+      font-family: Georgia, serif;
+      line-height: 1.9;
+      max-width: 720px;
+      margin: 0 auto;
+      padding: 40px 24px;
+    }
 
+    header {
+      text-align: center;
+      margin-bottom: 50px;
+    }
+
+    header a, footer a {
+      color: #526b4d;
+      text-decoration: none;
+      font-size: 0.95rem;
+    }
+
+    h1 {
+      font-size: 2rem;
+      font-weight: normal;
+      text-align: center;
+      margin-bottom: 8px;
+    }
+
+    .author {
+      text-align: center;
+      font-style: italic;
+      color: #687763;
+      margin-bottom: 40px;
+    }
+
+    .poem {
+      white-space: pre-line;
+      text-align: center;
+      font-size: 1.05rem;
+      line-height: 2;
+    }
+
+    footer {
+      text-align: center;
+      margin-top: 60px;
+      font-size: 0.9rem;
+    }
+  </style></head><body>
+  <header>
+    <a href="index.html">Njeri of the Woods</a>
+  </header>  <main>
+    <h1>Mutiny of the Consonants</h1>
+    <p class="author">By Njeri of the Woods</p><div class="poem">I love my white friends, my awkward sweet crew
+
+With their sunburns and sandals, and ‘ I brought hummus too!’
+They hug like puppies and speak with such glee
+While English sits heavy, just bullying me.
+
+They say ‘literally’ twenty seven times,
+They rhyme ‘drama’ with ‘llama’ call it good rhymes
+They chatter like teapots left boiling too long.
+And I'm nodding along, but my brain’s doing wrong.
+
+They mean well- bless their cotton socks
+But English feels like fighting ten angry rocks
+My tongue wants to jump ship,vowels want sleep
+My consonants mutiny, overboard they leap.
+
+One day they'll learn, one day they'll see
+That speaking English all day just finishes me.</div>
+
+  </main>  <footer>
+    <a href="poems.html">← Back to all poems</a>
+  </footer>
+</body>
+</html>
