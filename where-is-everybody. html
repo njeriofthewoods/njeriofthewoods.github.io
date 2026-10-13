@@ -1,1 +1,73 @@
+<!DOCTYPE html><html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Where Is Everybody? | Njeri of the Woods</title>  <style>
+    body {
+      background-color: #f5f2e9;
+      color: #263d2b;
+      font-family: Georgia, serif;
+      line-height: 1.9;
+      max-width: 720px;
+      margin: 0 auto;
+      padding: 40px 24px;
+    }
 
+    header {
+      text-align: center;
+      margin-bottom: 50px;
+    }
+
+    header a, footer a {
+      color: #526b4d;
+      text-decoration: none;
+      font-size: 0.95rem;
+    }
+
+    h1 {
+      font-size: 2rem;
+      font-weight: normal;
+      text-align: center;
+      margin-bottom: 8px;
+    }
+
+    .author {
+      text-align: center;
+      font-style: italic;
+      color: #687763;
+      margin-bottom: 40px;
+    }
+
+    .poem {
+      white-space: pre-line;
+      text-align: center;
+      font-size: 1.05rem;
+      line-height: 2;
+    }
+
+    footer {
+      text-align: center;
+      margin-top: 60px;
+      font-size: 0.9rem;
+    }
+  </style></head><body>
+  <header>
+    <a href="index.html">Njeri of the Woods</a>
+  </header>  <main>
+    <h1>Where Is Everybody?</h1>
+    <p class="author">By Njeri of the Woods</p><div class="poem">We search the dark for distant sparks, for whispers in the night,
+
+For other souls beneath strange suns, who wonder at the light.
+On this small rock, we bloom and bleed, beneath a common sky,
+The only home we know that breathes, adrift in the by and by.
+
+So where is everybody, in this endless, starry sea?
+Are we the universe's eyes, or is there more than we can see?
+Perhaps the stars are full of life, too far for us to know,
+Or perhaps we're all there ever was, in this vast and silent show.</div>
+
+  </main>  <footer>
+    <a href="poems.html">← Back to all poems</a>
+  </footer>
+</body>
+</html>
